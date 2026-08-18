@@ -12,7 +12,8 @@ IoP技術者コミュニティ R8年度 第4回講座（フィジカルAI編）�
 
 - `er2_hands_on_ja.ipynb` — Google 公式 [gemini_robotics_er.ipynb](https://github.com/google-gemini/robotics-samples/blob/main/Getting%20Started/gemini_robotics_er.ipynb)（Apache-2.0）の説明文を日本語化し、講座オリジナルの発展（Google Drive の写真読み込み・グラフ読解）を追加したものです。コードは公式のままです。
 - `demo-box-wide.jpg` — 発展編で使うデモ環境（ミニ温室2台＋制御装置）の写真
-- `chart_dense.png` — 発展編で使う温室チャート（正解既知の合成データ・1分間隔24時間）
+- `chart_real_ab.png` — 発展編で使う温室 A/B の実測チャート（1分間隔・丸1日分。A=ファン制御あり / B=ファン封鎖の対照区）
+- `chart_dense.png` — 合成データ版チャート（正解既知・予備）
 
 ## ライセンス
 
